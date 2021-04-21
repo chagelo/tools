@@ -22,7 +22,7 @@ class Markdown2Html:
                        '</script>'\
                        '</head>'
 
-    def setStyle(self, cssfile=None):
+    def setStyle(self, cssfile):
         '''
         设置样式表文件
         '''
