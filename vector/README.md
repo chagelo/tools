@@ -1,1 +1,1 @@
-vector implementation ref to https://github.com/KujouRinka/rust_rkgk/blob/master/vec.rs
+vector implementation ref to [The Rustonomicon](https://doc.rust-lang.org/nomicon/vec/vec.html)
