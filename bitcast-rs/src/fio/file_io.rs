@@ -94,8 +94,6 @@ mod test {
         assert!(res2.is_ok());
         assert_eq!(4, res2.ok().unwrap());
 
-        fs::remove_file(path.clone());
-
         let res3 = fs::remove_file(path.clone());
         assert!(res3.is_ok());
     }
