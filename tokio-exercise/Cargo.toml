@@ -1,9 +1,9 @@
 
 [workspace]
-
-members = [
-    "hello-tokio",
-    # "spawning",
+resolver = "1"
+members = [ "channels",
+    "hello-tokio", "shared-state", "spawning",
+    "spawning",
     # "shared-state",
     # "channels", 
     # "io", 
